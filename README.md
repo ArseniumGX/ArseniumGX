@@ -1,15 +1,7 @@
 # ArseniumGX
 
 ```ts
-import express from 'express'
-require('dotenv').config()
-
-const app = express()
-const port = process.env.PORT
-
-app.get('/', (req, res) => res.send("Hello!"))
-
-app.listen(port)
+say("Olá!")
 ```
 
    Sou o José, ou Arsenium como prefiro!
