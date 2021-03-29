@@ -6,7 +6,7 @@ say("Olá!")
 
    Sou o José, ou Arsenium!
    
-   <strong><style color='red'>Pensando em alguma tranqueira pra melhorar isso aqui</style></strong>
+   <strong>Pensando em alguma tranqueira pra melhorar isso aqui</strong>
    
 ```node
 return 0
