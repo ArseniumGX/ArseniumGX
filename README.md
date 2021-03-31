@@ -9,8 +9,8 @@ say("Hello!")
 
 ## 🐈 **Jose Pereira Macedo**
 
-<p>Hi!</p>
-<p align="justify">I'm José "ArseniumGX" Macedo from Brazil, back end developer. I'm gratuate in Information System and lover by tecnology and sciences. I study programming  since 2017 and haves plans in join to fullstack develop with node + react. All the days i learn something news.
+<h4>Hi!</h4>
+<p align="justify">I'm José "ArseniumGX" Macedo from Brazil, back-end developer. I have a degree in Information Systems, passionate about technology and science. I've been studying programming since 2017 and I have future plans to become a fullstack node + react developer. Every day I learn something new. 
 </p>
 
 <hr>
