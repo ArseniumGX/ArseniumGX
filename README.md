@@ -30,10 +30,10 @@ say("Hello!")
 ### Skills
 
 <a href="https://github.com/ArseniumGX">
-  <img height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
+  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
 </a>
 <a href="https://github.com/ArseniumGX">
-  <img height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
+  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
 </a>
 
 
@@ -41,8 +41,6 @@ say("Hello!")
 return 0
 
 ```
-
-<strong>Icons designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></strong>
 
 <!---
 ArseniumGX/ArseniumGX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
