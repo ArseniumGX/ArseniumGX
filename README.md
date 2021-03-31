@@ -15,13 +15,13 @@ say("Hello!")
 
 <hr>
 
-### Socials and contact
+<h3 align="center">Socials and contact</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="#" alt="Linkedin" /></a>
-   <a href="mailto:8glibibag@relay.firefox.com"><img width="48px" src="#" alt="Gmail" /></a>
-   <a href="https://twitter.com/arseniumgx"><img width="48px" src="#" alt="Twitter" /></a>
-   <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="#" alt="Facebook" /></a>
+   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a>
+   <a href="mailto:8glibibag@relay.firefox.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a>
+   <a href="https://twitter.com/arseniumgx"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a>
+   <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a>
 </p>
 
 
@@ -35,13 +35,10 @@ say("Hello!")
   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
 </a>
 
+<hr>
 
+<strong>Icons designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></strong>
 
-
-```ts
-return 0
-
-```
 
 <!---
 ArseniumGX/ArseniumGX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
