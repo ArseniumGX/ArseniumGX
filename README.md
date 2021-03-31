@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to ArseniumGX's Github </h1>
+<h1 align="center">Welcome to ArseniumGX <img width="48px" src="./icons/010-github.svg" /> </h1>
 
 ```ts
 say("Hello!")
