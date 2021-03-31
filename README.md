@@ -27,14 +27,15 @@ say("Hello!")
 
 <hr>
 
-### Skills
 
 <a href="https://github.com/ArseniumGX">
-  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
+  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
 </a>
 <a href="https://github.com/ArseniumGX">
-  <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
+  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
 </a>
+
+
 
 
 ```ts
