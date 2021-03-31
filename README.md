@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to ArseniumGX <img width="48px" src="./icons/010-github.svg" /> </h1>
+<h1 align="center">Welcome to ArseniumGX's Github </h1>
 
 ```ts
 say("Hello!")
@@ -12,6 +12,8 @@ say("Hello!")
 <h4>Hi!</h4>
 <p align="justify">I'm José "ArseniumGX" Macedo from Brazil, back-end developer. I have a degree in Information Systems, passionate about technology and science. I've been studying programming since 2017 and I have future plans to become a fullstack node + react developer. Every day I learn something new. 
 </p>
+
+<p align="right"></p>
 
 <hr>
 
