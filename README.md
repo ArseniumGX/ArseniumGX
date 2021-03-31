@@ -18,8 +18,8 @@ say("Hello!")
 <h3 align="center">Socials and contact</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a>
    <a href="mailto:8glibibag@relay.firefox.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a>
+   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a>
    <a href="https://twitter.com/arseniumgx"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a>
    <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a>
 </p>
