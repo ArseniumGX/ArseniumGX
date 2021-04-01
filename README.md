@@ -1,15 +1,16 @@
 ```ts
 say("Hello!")
 ```
-
-<h1 align="center">Welcome to ArseniumGX's Github </h1>
 <p align="center"><img width="48px" src="./icons/github.svg" alt="Github" /></p>
+<h1 align="center">Welcome to ArseniumGX's Github </h1>
 
-<img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
+<img align="right" width="25%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
 <h4>Hi! 🤓 </h4>
 <p align="justify">I'm José "ArseniumGX" Macedo from Brazil, back-end developer. I have a degree in Information Systems, passionate about technology and science. I've been studying programming since 2017 and I have future plans to become a fullstack node + react developer. Every day I learn something new. 
 </p>
+
+<hr/>
 
 <h3 align="center">Socials and contacts</h3>
 
