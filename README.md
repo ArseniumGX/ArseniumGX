@@ -1,31 +1,38 @@
-<h1 align="center">Welcome to ArseniumGX's Github </h1>
-
 ```ts
 say("Hello!")
 ```
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap" rel="stylesheet"> 
+<h1 align="center">Welcome to ArseniumGX's Github </h1>
 
-## 🐈 **Jose Pereira Macedo**
+<img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
-<h4>Hi!</h4>
+## 🐈 ** * **
+
+<h4>Hi! 🤓 </h4>
 <p align="justify">I'm José "ArseniumGX" Macedo from Brazil, back-end developer. I have a degree in Information Systems, passionate about technology and science. I've been studying programming since 2017 and I have future plans to become a fullstack node + react developer. Every day I learn something new. 
 </p>
 
-<p align="right"></p>
-
 <hr>
 
-<h3 align="center">Socials and contact</h3>
+<h3 align="center">Socials and contacts</h3>
 
 <p align="center">
-   <a href="mailto:8glibibag@relay.firefox.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a>
    <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a>
    <a href="https://twitter.com/arseniumgx"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a>
    <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a>
+   <a href="https://steamcommunity.com/profiles/76561198144096375/"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a>
+   <a href="mailto:arseniumgx@gmail.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a>
+   <a href="http://t.me/ArseniumGX"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a>
+   <a href="https://wa.me/message/6PYCIZE4G3ABC1"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a>
 </p>
 
+
+<h3 align="center">Skills</h3>
+
+**?**
+
+<h3 align="center">Skills</h3>
+learning and interests
 
 <hr>
 
@@ -42,7 +49,4 @@ say("Hello!")
 <strong>Icons designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></strong>
 
 
-<!---
-ArseniumGX/ArseniumGX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---  **************************************************************************************************************************************************  --->
