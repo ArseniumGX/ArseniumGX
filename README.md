@@ -14,13 +14,13 @@
 <h3 align="center">Socials and contacts</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a>
-   <a href="https://twitter.com/arseniumgx"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a>
-   <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a>
-   <a href="https://steamcommunity.com/profiles/76561198144096375/"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a>
-   <a href="mailto:arseniumgx@gmail.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a>
-   <a href="http://t.me/ArseniumGX"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a>
-   <a href="https://wa.me/message/6PYCIZE4G3ABC1"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a>
+   <a href="https://www.linkedin.com/in/arseniumgx"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a> &nbsp;
+   <a href="https://twitter.com/arseniumgx"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a> &nbsp;
+   <a href="https://www.facebook.com/arseniumgx"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a> &nbsp;
+   <a href="https://steamcommunity.com/profiles/76561198144096375/"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a> &nbsp;
+   <a href="mailto:arseniumgx@gmail.com"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a> &nbsp;
+   <a href="http://t.me/ArseniumGX"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a> &nbsp;
+   <a href="https://wa.me/message/6PYCIZE4G3ABC1"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a> &nbsp;
 </p>
 
 
