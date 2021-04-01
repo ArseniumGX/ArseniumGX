@@ -31,8 +31,9 @@ say("Hello!")
 
 **?**
 
-<h3 align="center">Skills</h3>
-learning and interests
+<h3 align="center">learning and interests</h3>
+
+** ? **
 
 <hr>
 
