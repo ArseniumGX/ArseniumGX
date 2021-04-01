@@ -44,11 +44,27 @@
 
 <h3 align="center">Skills</h3>
 
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
 
-<h3 align="center">learning and interests</h3>
 
-**?**
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">Learning and interests</h3>
+
+<a href="#"><p align="center"><img width="480px" src="https://media.giphy.com/media/xTka034bGJ8H7wH1io/giphy.gif" /></p></a>
 
 <hr>
 
