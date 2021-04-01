@@ -8,10 +8,8 @@
    I'm José "ArseniumGX" Macedo from Brazil, back-end developer. I have a degree in Information Systems, passionate about technology and science. I've been studying programming since 2017 and I have future plans to become a fullstack node + react developer. Every day I learn something new. 
 </p>
 
-
-
-<hr>
-
+<hr/>
+<br/>
 
 <h3 align="center">Socials and contacts</h3>
 
