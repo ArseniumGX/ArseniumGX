@@ -1,6 +1,3 @@
-```ts
-say("Hello!")
-```
 <p align="center"><img width="48px" src="./icons/github.svg" alt="Github" /></p>
 <h1 align="center">Welcome to ArseniumGX's Github </h1>
 <img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
