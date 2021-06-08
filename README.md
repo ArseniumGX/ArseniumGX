@@ -25,7 +25,10 @@
 </p>
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 <h3 align="center">Arsenal</h3>
@@ -52,8 +55,10 @@
 </p>
 
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 <h3 align="center">Aprendendo e interesses</h3>
@@ -75,8 +80,16 @@
    <a href="#"><img src="https://img.shields.io/badge/spacex-000000?style=for-the-badge&logo=spacex&logoColor=white" alt="SpaceX" /></a>   
 </p>
 
+<br>
+<br>
+<p align="center">
+   <img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</p>
+
 ---
 
+<br>
+<br>
 
 <p align="center">
    <a href="#">
@@ -87,7 +100,13 @@
    </a>
 </p>
 
-<hr>
+<br>
+<br>
+
+---
+
+<br>
+<br>
 
 <strong>Icons designed by <a href="https://www.freepik.com" target="_blank" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">Flaticon</a></strong>
 
