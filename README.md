@@ -10,12 +10,11 @@
 </p>
 
 ---
-<br/>
 
 <h3 align="center">Networks</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a> &nbsp;
+   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a> &nbsp;   
    <a href="https://twitter.com/arseniumgx" target="_blank"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a> &nbsp;
    <a href="https://www.facebook.com/arseniumgx" target="_blank"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a> &nbsp;
    <a href="https://steamcommunity.com/profiles/76561198144096375/" target="_blank"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a> &nbsp;
@@ -24,12 +23,7 @@
    <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="_blank"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a> &nbsp;
 </p>
 
-
 <br>
-<br>
-<br>
-<br>
-
 
 <h3 align="center">Arsenal</h3>
 
@@ -54,12 +48,7 @@
    <a href="#"><img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /></a>
 </p>
 
-
 <br>
-<br>
-<br>
-<br>
-
 
 <h3 align="center">Aprendendo e interesses</h3>
 
@@ -81,15 +70,35 @@
 </p>
 
 <br>
-<br>
+<!--
+<p align="center">
+   https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" alt="Linkedin" /></a> &nbsp;   
+   <a href="https://twitter.com/arseniumgx" target="_blank"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a> &nbsp;
+   <a href="https://www.facebook.com/arseniumgx" target="_blank"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a> &nbsp;
+   <a href="https://steamcommunity.com/profiles/76561198144096375/" target="_blank"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a> &nbsp;
+   <a href="mailto:8glibibag@relay.firefox.com" target="_blank"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a> &nbsp;
+   <a href="http://t.me/ArseniumGX" target="_blank"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a> &nbsp;
+   <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="_blank"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a> &nbsp;
+</p>
+-->
+
+
 <p align="center">
    <img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </p>
 
 ---
 
+
+
+
+
 <br>
-<br>
+
+
+
+
 
 <p align="center">
    <a href="#">
@@ -101,11 +110,9 @@
 </p>
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 <strong>Icons designed by <a href="https://www.freepik.com" target="_blank" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">Flaticon</a></strong>
