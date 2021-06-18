@@ -14,13 +14,13 @@
 <h3 align="center">Networks</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a> &nbsp;   
-   <a href="https://twitter.com/arseniumgx" target="_blank"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a> &nbsp;
-   <a href="https://www.facebook.com/arseniumgx" target="_blank"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a> &nbsp;
-   <a href="https://steamcommunity.com/profiles/76561198144096375/" target="_blank"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a> &nbsp;
-   <a href="mailto:8glibibag@relay.firefox.com" target="_blank"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a> &nbsp;
-   <a href="http://t.me/ArseniumGX" target="_blank"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a> &nbsp;
-   <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="_blank"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a> &nbsp;
+   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img width="48px" src="./icons/linkedin.svg" alt="Linkedin" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="https://twitter.com/arseniumgx" target="_blank"><img width="48px" src="./icons/twitter.svg" alt="Twitter" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="https://www.facebook.com/arseniumgx" target="_blank"><img width="48px" src="./icons/facebook.svg" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="https://steamcommunity.com/profiles/76561198144096375/" target="_blank"><img width="48px" src="https://store.steampowered.com/favicon.ico" alt="Steam" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="mailto:8glibibag@relay.firefox.com" target="_blank"><img width="48px" src="./icons/gmail.svg" alt="Gmail" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="http://t.me/ArseniumGX" target="_blank"><img width="48px" src="./icons/telegram.svg" alt="Telegram" /></a> &nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="_blank"><img width="48px" src="./icons/whatsapp.svg" alt="Whatsapp" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
