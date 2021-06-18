@@ -87,10 +87,10 @@ Testes
 
 <p align="center">
    <a href="#">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=midnight-purple&custom_title=ArseniumGX's+Github+stats" />
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=monokai&custom_title=ArseniumGX's+Github+stats&include_all_commits=true&count_private=true" />
    </a>
    <a href="#">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=midnight-purple" />
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=monokai&langs_count=8" />
    </a>
 </p>
 
