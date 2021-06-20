@@ -14,13 +14,13 @@
 <h3 align="center">Networks</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/arseniumgx" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" alt="Linkedin" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://twitter.com/arseniumgx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=1DA1F2" alt="Twitter" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.facebook.com/arseniumgx" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=1877F2" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://steamcommunity.com/profiles/76561198144096375/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=social&logo=steam&logoColor=000000" alt="Steam" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:8glibibag@relay.firefox.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail&logoColor=EA4335" alt="Gmail" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="http://t.me/ArseniumGX" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=social&logo=whatsapp&logoColor=25D366" alt="Whatsapp" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" alt="Linkedin" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://twitter.com/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=1DA1F2" alt="Twitter" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.facebook.com/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=1877F2" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://steamcommunity.com/profiles/76561198144096375/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=social&logo=steam&logoColor=000000" alt="Steam" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:8glibibag@relay.firefox.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail&logoColor=EA4335" alt="Gmail" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="http://t.me/ArseniumGX" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/message/6PYCIZE4G3ABC1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=social&logo=whatsapp&logoColor=25D366" alt="Whatsapp" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
