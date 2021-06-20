@@ -34,7 +34,7 @@
    <a href="#"><img src="https://img.shields.io/badge/insomnia-5849BE?style=flat&logo=insomnia&logoColor=FFFFFF" alt="Insomnia" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" alt="HTML5" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" alt="CSS3" /></a>&nbsp;&nbsp;&nbsp;
-   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF" alt="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
+   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=FFFFFF"  alt="NodeJS" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
@@ -53,11 +53,11 @@
 <h3 align="center">Aprendendo e interesses</h3>
 
 <p align="center">
-   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF" alt="React" /></a>&nbsp;&nbsp;&nbsp;
+   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" alt="React" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=FFFFFF" alt="VueJS" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.JS" /></a>&nbsp;&nbsp;&nbsp;
-   <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=FFFFFF" alt="Webpack" /></a>&nbsp;&nbsp;&nbsp;
-   <a href="#"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=FFFFFF" alt="Babel" /></a>&nbsp;&nbsp;&nbsp;
+   <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000" alt="Webpack" /></a>&nbsp;&nbsp;&nbsp;
+   <a href="#"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=000000" alt="Babel" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF" alt="Flutter" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=FFFFFF" alt="Android" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=FFFFFF" alt="R Lang" /></a>&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,6 @@
    <a href="#"><img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=FFFFFF" alt="Sass" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;
    <a href="#"><img src="https://img.shields.io/badge/unreal_engine-313131?style=flat&logo=unreal-engine&logoColor=FFFFFF" alt="Unreal Engine" /></a>&nbsp;&nbsp;&nbsp;
-   <a href="#"><img src="https://img.shields.io/badge/spacex-000000?style=flat&logo=spacex&logoColor=white" alt="SpaceX" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
