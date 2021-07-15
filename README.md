@@ -4,6 +4,7 @@
 
 <code>print("Hello world!")</code>
 
+![Snake animation](https://github.com/ArseniumGX/ArseniumGX/blob/output/github-contribution-grid-snake.svg)
 
 <p align="justify">
    Olá!
