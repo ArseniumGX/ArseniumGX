@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to ArseniumGX's Github </h1>
 <img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
-<code>Hello world!</code>
+<code>print("Hello world!")</code>
 
 <p align="justify">
    Olá!
@@ -75,7 +75,7 @@ Testes
 
 
 <p align="center">
-   <img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+   <img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </p>
 
 ---
@@ -85,12 +85,8 @@ Testes
 
 
 <div align="center">
-   <p>
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=monokai&custom_title=ArseniumGX's+Github+stats&include_all_commits=true&count_private=true" />
-   </p>
-   <p>
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=monokai&langs_count=8" />
-   </p>
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=monokai&custom_title=ArseniumGX's+Github+stats&include_all_commits=true&count_private=true">
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=monokai&langs_count=8">
 </div>
 
 <br>
