@@ -9,6 +9,8 @@
 
 
 
+
+
 <p align="justify">
    Olá!
    Meu nome é José e sou formado em Sistemas de Informação. Faz pouco tempo que venho estudando programação, nessa minha caminhada adquiri um sólido conhecimento em javascript, html e css. Gosto de atuar no back end com o NodeJS por minha curiosidade de como funciona as coisas que a gente não vê. Javascript é a linguagem que mais de identifiquei por ter um sintáxe fácil e ser bem diversificada podendo criar aplicação multi plataforma. Aqui guardo alguns pequenos projetos paralelos que desenvolvo para fins de aprendizagem ou mesmo para ter códigos prontos para algum caso que seja aplicável. Sinta-se à vontade para colaborar em alguma coisa ou usar algum repositório para algum fim.
