@@ -13,7 +13,7 @@
 
 <p align="justify">
    Olá!
-   Meu nome é José e sou formado em Sistemas de Informação. Já tem um tempinho entrei nessa área, nessa minha caminhada adquiri sólidos conhecimentos em javascript, html e css. Gosto de atuar no backend com o NodeJS com express e NestJS com Typescript por por ser algo mais claro. Atualmente venho desvendando o mundo do frontend utlizado ReactJS e estou gostando muito do que venho aprendendo.
+   Meu nome é José e sou formado em Sistemas de Informação. Já tem um tempinho entrei nessa área, nessa minha caminhada adquiri sólidos conhecimentos em javascript, html e css. Gosto de atuar no backend com o NodeJS com express e NestJS com Typescript por ser algo mais claro. Atualmente venho desvendando o mundo do frontend utlizado ReactJS e estou gostando muito do que venho aprendendo.
    Este é meu backend, bem vindo(a) ao meu repositório!
 </p>
 
