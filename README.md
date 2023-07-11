@@ -1,8 +1,5 @@
 <!--a href="#"><p align="center"><img width="48px" src="https://avatars.githubusercontent.com/u/9919?v=4" alt="Github" /></p></a-->
 <h1 align="center">Welcome to ArseniumGX's Github </h1>
-
-![Snake animation](https://github.com/ArseniumGX/ArseniumGX/blob/output/github-user-contribution.svg)
-
 <img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
 <code>print("Hello world!")</code>
