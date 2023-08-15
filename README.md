@@ -10,18 +10,14 @@ console.info(greetings());
 
 Desenvolvedor de software com 3 anos de experiência em Node e React, com habilidades sólidas em desenvolvimento web full-stack. Possuo experiência em criar aplicações escaláveis e eficientes usando ferramentas como Express, NestJS, MongoDB e Redux. Sou capaz de trabalhar em equipe e colaborar em projetos complexos, identificando e resolvendo problemas rapidamente. Comprometido com a qualidade do código e a satisfação do usuário, busco sempre estar atualizado com as tendências e melhores práticas do mercado.
 
----
-
 <h2 align="center"> Minhas Redes </h2>
-
-Vamos trocar umas ideias? Me procure em minhas redes.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> &nbsp;&nbsp; <a href="https://www.facebook.com/arseniumgx" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> &nbsp;&nbsp;
 
-</a> &nbsp;&nbsp;<a href="mailto:8glibibag@relay.firefox.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;&nbsp; <a href="http://t.me/ArseniumGX" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;&nbsp;
-<a href="https://steamcommunity.com/profiles/76561198144096375/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+<a href="mailto:8glibibag@relay.firefox.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;&nbsp; <a href="http://t.me/ArseniumGX" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198144096375/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a> &nbsp;&nbsp;
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
