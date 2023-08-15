@@ -3,7 +3,7 @@
 
 ```js
 function greetings() {
-	return "Olá!\nBem vindo(a) ao meu Github.";
+   return "Olá!\nBem vindo(a) ao meu Github.";
 }
 console.info(greetings());
 ```
