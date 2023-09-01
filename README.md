@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to ArseniumGX's Github </h1>
 <img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
-```js
-function greetings() {
+```ts
+function greetings():void {
    return "Olá!\nBem vindo(a) ao meu Github.";
 }
 console.info(greetings());
