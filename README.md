@@ -53,15 +53,6 @@ Desenvolvedor de software com 3 anos de experiência em Node e React, com habili
 
 ---
 
-<br>
-
-<div align="center">
-   <img height=190px align="left" src="https://github-readme-stats.vercel.app/api?username=arseniumgx&show_icons=true&theme=monokai&custom_title=ArseniumGX's+Github+stats&include_all_commits=true&count_private=true">
-   <img height="190px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniumgx&layout=compact&theme=monokai&langs_count=8">
-</div>
-
-<br>
-
 <div align="center">
    
    ![Profile Views](https://readme-jokes.vercel.app/api)
