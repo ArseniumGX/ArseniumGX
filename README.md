@@ -2,7 +2,7 @@
 <img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 
 ```ts
-const greetings:string = () => "Olá!\nBem vindo(a) ao meu Github.";
+const greetings: string = () => "Olá! Bem vindo(a) ao meu Github.";
 console.info(greetings());
 ```
 
